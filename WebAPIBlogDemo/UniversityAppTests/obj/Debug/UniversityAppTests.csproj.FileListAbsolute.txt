@@ -30,3 +30,19 @@ C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIBlogDemo\UniversityAp
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIBlogDemo\UniversityAppTests\bin\Debug\Newtonsoft.Json.dll
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIBlogDemo\UniversityAppTests\bin\Debug\Helpers.pdb
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIBlogDemo\UniversityAppTests\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\UniversityAppTests\bin\Debug\UniversityAppTests.dll.config
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\UniversityAppTests\bin\Debug\UniversityAppTests.dll
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\UniversityAppTests\bin\Debug\UniversityAppTests.pdb
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\UniversityAppTests\bin\Debug\EntityFramework.dll
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\UniversityAppTests\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\UniversityAppTests\bin\Debug\Helpers.dll
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\UniversityAppTests\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\UniversityAppTests\bin\Debug\UniversityApp.dll
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\UniversityAppTests\bin\Debug\UniversityApp.pdb
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\UniversityAppTests\bin\Debug\Helpers.pdb
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\UniversityAppTests\bin\Debug\EntityFramework.xml
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\UniversityAppTests\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\UniversityAppTests\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\UniversityAppTests\obj\Debug\UniversityAppTests.csprojResolveAssemblyReference.cache
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\UniversityAppTests\obj\Debug\UniversityAppTests.dll
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\UniversityAppTests\obj\Debug\UniversityAppTests.pdb

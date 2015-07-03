@@ -18,3 +18,14 @@ C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIBlogDemo\Helpers\bin\
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIBlogDemo\Helpers\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIBlogDemo\Helpers\obj\Debug\Helpers.dll
 C:\Users\Frank\Documents\Visual Studio 2013\Projects\WebAPIBlogDemo\Helpers\obj\Debug\Helpers.pdb
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\Helpers\bin\Debug\Helpers.dll
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\Helpers\bin\Debug\Helpers.pdb
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\Helpers\bin\Debug\EntityFramework.dll
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\Helpers\bin\Debug\EntityFramework.SqlServer.dll
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\Helpers\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\Helpers\bin\Debug\EntityFramework.xml
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\Helpers\bin\Debug\EntityFramework.SqlServer.xml
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\Helpers\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\Helpers\obj\Debug\Helpers.dll
+E:\GitHub\MVC_WebAPI_Blog_Demo_Application\WebAPIBlogDemo\Helpers\obj\Debug\Helpers.pdb
