@@ -47,3 +47,4 @@ obj
 Debug
 bin
 .vs
+*.cache
